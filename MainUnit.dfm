@@ -3,7 +3,7 @@ object JUMain: TJUMain
   Top = 0
   BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
-  Caption = 'JExePack Unpacker No. 2'
+  Caption = 'JExePack Unpacker'
   ClientHeight = 93
   ClientWidth = 469
   Color = clBtnFace
